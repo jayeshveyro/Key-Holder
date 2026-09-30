@@ -11,11 +11,10 @@ This is my 3rd project of my 3D Design upskilling series and this time I made a 
 
 | No. | Component | SKU | Qty. | Unit Price | Total |
 |---:|---|---:|---:|---:|---:|
-| 1 | [Robu Online FDM 3D Printing Service](https://robu.in/product/3d-printing-service1/) | 901845 | 1 | ₹287 | ₹287 |
-| 2 | Shipping Charges | — | 1 | ₹49 | ₹49 |
-| | | | | **Grand Total** | **₹336** |
+| 1 | [Hack Club Printing Legion]() | 901845 | 1 | ₹240 | ₹240 |
+| 2 | Shipping Charges | — | 1 | ₹99 | ₹99 |
+| | | | | **Grand Total** | **₹339** |
 
-![image.png](https://cdn.hackclub.com/01a0e90b-3605-7981-bd0a-3d6c672b0278/image.png)
 
 
 ## Preview Of Key Holder
