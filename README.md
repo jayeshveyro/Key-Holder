@@ -11,7 +11,7 @@ This is my 3rd project of my 3D Design upskilling series and this time I made a 
 
 | No. | Component | SKU | Qty. | Unit Price | Total |
 |---:|---|---:|---:|---:|---:|
-| 1 | [Hack Club Printing Legion]() | 901845 | 1 | ₹240 | ₹240 |
+| 1 | [Hack Club Printing Legion] | 901845 | 1 | ₹240 | ₹240 |
 | 2 | Shipping Charges | — | 1 | ₹99 | ₹99 |
 | | | | | **Grand Total** | **₹339** |
 
