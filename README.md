@@ -9,11 +9,11 @@ This is my 3rd project of my 3D Design upskilling series and this time I made a 
 ## Bill of Materials
 # 3D Printing BOM
 
-| No. | Component | SKU | Qty. | Unit Price | Total |
-|---:|---|---:|---:|---:|---:|
-| 1 | [Hack Club Printing Legion] | 901845 | 1 | ₹240 | ₹240 |
-| 2 | Shipping Charges | — | 1 | ₹99 | ₹99 |
-| | | | | **Grand Total** | **₹339** |
+| No. | Component | Total |
+|---:|---|---:|
+| 1 | [Hack Club Printing Legion] | ₹240 |
+| 2 | Shipping Charges | ₹240 |
+| | **Grand Total** | **₹480** |
 
 
 
